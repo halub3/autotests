@@ -1,4 +1,5 @@
 # autotests
 
 
-Autotests for stepik
+Aleksandr
+Autotests for stepik.org
